@@ -1,3 +1,3 @@
 # Triton-Lab-Website
 
-For a new Troton Lab website :)
+For a new Triton Lab website :)
